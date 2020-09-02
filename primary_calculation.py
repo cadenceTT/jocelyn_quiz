@@ -89,7 +89,7 @@ def tow_numbers_plus(ceil, matrix):
 
 
 if __name__ == '__main__':
-    ceil = [20, 10]
+    ceil = [10, 10]
     matrix = [5, 10]
     number_writing(ceil[0], matrix)
     tow_numbers_plus(ceil, matrix)
